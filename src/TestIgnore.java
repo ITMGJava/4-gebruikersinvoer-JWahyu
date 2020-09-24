@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GebruikersInvoer {
+public class TestIgnore {
     public static void main(String[] args) {
 
         // Voer een woord in en tel het aantal letters.
